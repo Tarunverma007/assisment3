@@ -1,0 +1,49 @@
+h1{
+    color: brown;
+}
+h2{
+    color: tomato;
+    font-style: italic;
+}
+ol{
+    color: blueviolet;
+
+}
+span{
+    text-decoration: underline;
+}
+.demo{
+    line-height: 56px;
+}
+.demo2{
+    line-height: 65px;
+}
+#lt{
+    text-decoration: line-through;
+}
+.twocol{
+    background-color: yellowgreen;
+}
+.bg{
+    background-color: yellowgreen;
+    font-weight: bold;
+}
+.ui{
+    text-decoration: underline;
+    font-style: italic;
+}
+.container2{
+    color:blueviolet;
+    font-family:serif;
+    word-spacing: 5px;
+}
+a{
+    background-color: yellowgreen;
+    font-style:italic ;
+}
+.container1{
+    line-height: 38px;
+}
+.container3{
+    color: blue;
+}
